@@ -1,4 +1,4 @@
-# Hi there, I'm Álvaro! 👋  
+# Hello there, I'm Álvaro! 👋  
 **aka Guti**  
 
 ## About Me  
