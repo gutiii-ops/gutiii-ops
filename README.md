@@ -13,7 +13,7 @@
   - Completed:  
     - Advanced Vocational Degree in Automation & Industrial Robotics
  
-- 🌌 **Fun Fact:**  *"I find your lack of faith disturbing."* – Darth Vader 🛸 
+- 🌌 **Fun Fact:**  *"I find your lack of faith disturbing."* – Darth Vader -
 - 🧑‍💻 **Pronouns:** He/Him
 
 ## Objectives  
