@@ -23,7 +23,8 @@ I am committed to becoming a high-quality programmer and developer. I enjoy lear
 Hello! I'm Álvaro, also known as Guti, a tech enthusiast deeply passionate about web development and cybersecurity. With a strong foundation in automation and industrial robotics, I have embraced the exciting journey of coding and problem-solving. Currently, I am furthering my expertise through studies in web development and a master's program in cybersecurity. I thrive on challenges, value lifelong learning, and strive to grow as a professional every day.
 
 ## Get in Touch  
-📧 **Email:** [g.v.a.alvaro@gmail.com](mailto:g.v.a.alvaro@gmail.com)  
+- 📧 **Email:** [g.v.a.alvaro@gmail.com](mailto:g.v.a.alvaro@gmail.com)
+- 🌐 **LinkedIn:** [www.linkedin.com/in/álvaro-gutiérrez-villalba](https://www.linkedin.com/in/álvaro-gutiérrez-villalba)
 
 Thanks for stopping by, and may the Force be with you! ✨
 
