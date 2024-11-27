@@ -2,11 +2,11 @@
 
 ## Introducción | Introduction
 
-Este perfil promueve un entorno de colaboración inclusivo, respetuoso y enfocado en la calidad del código. La prioridad es garantizar que el código sea **limpio, legible y fácil de mantener**, no solo para nosotros, sino también para futuros colaboradores.  
-This profile promotes an inclusive, respectful, and quality-driven collaboration environment. The priority is to ensure that the code is **clean, readable, and easy to maintain**, not just for us but also for future collaborators.  
+Este proyecto promueve un entorno de colaboración inclusivo, respetuoso y enfocado en la calidad del código. La prioridad es garantizar que el código sea **limpio, legible y fácil de mantener**, no solo para nosotros, sino también para futuros colaboradores.  
+This project fosters an inclusive, respectful, and quality-driven collaboration environment. The priority is to ensure that the code is **clean, readable, and easy to maintain**, not just for us but also for future contributors.
 
-Al contribuir a este perfil en cualquiera de sus repositorios, te pido que sigas estas normas para fomentar un espacio de trabajo saludable y efectivo para tod@s.  
-When contributing to this profile or any of its repositories, I ask you to follow these guidelines to create a healthy and effective workspace for everyone.  
+Al contribuir a este repositorio, te pedimos que sigas estas normas para fomentar un espacio de trabajo saludable y efectivo para todos.  
+When contributing to this repository, please follow these guidelines to maintain a healthy and effective workspace for everyone.  
 
 ---
 
@@ -72,6 +72,6 @@ If technical disagreements arise, let’s work together to reach a solution that
 
 ## Agradecimientos | Acknowledgements  
 
-Gracias por visitar mi perfil de GitHub y explorar mis proyectos. Este código de conducta refleja mi compromiso personal con la calidad del código y la claridad en su desarrollo, pensando en quienes puedan beneficiarse de mi trabajo o colaborar conmigo en el futuro. Cada repositorio aquí presente es una muestra de mi esfuerzo por crear soluciones útiles, bien documentadas y sostenibles.
+Gracias por contribuir a este proyecto y por valorar la calidad del código tanto como nosotros. Cada línea que escribimos impacta en la experiencia de quienes trabajarán con ella en el futuro. ¡Hagamos que sea lo mejor posible!
 
-Thank you for visiting my GitHub profile and exploring my projects. This code of conduct reflects my personal commitment to code quality and clarity in its development, considering those who may benefit from my work or collaborate with me in the future. Each repository here represents my effort to create useful, well-documented, and sustainable solutions.
+Thank you for contributing to this project and for valuing code quality as much as we do. Every line we write impacts the experience of those who will work with it in the future. Let’s make it the best it can be!
