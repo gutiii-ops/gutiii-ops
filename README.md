@@ -20,7 +20,7 @@
 I am committed to becoming a high-quality programmer and developer. I enjoy learning new technologies and continuously developing my skills to stay up-to-date and deliver the best solutions possible.  
 
 ## Biography  
-Hello! I'm Álvaro, also known as Guti, a tech enthusiast deeply passionate about web development and cybersecurity. With a strong foundation in automation and industrial robotics, I have embraced the exciting journey of coding and problem-solving. Currently, I am furthering my expertise through studies in web development qpplication and a master's program in cybersecurity. I thrive on challenges, value lifelong learning, and strive to grow as a professional every day.
+Hello! I'm Álvaro, also known as Guti, a tech enthusiast deeply passionate about web development and cybersecurity. With a strong foundation in automation and industrial robotics, I have embraced the exciting journey of coding and problem-solving. Currently, I am furthering my expertise through studies in web application development and a master's program in cybersecurity. I thrive on challenges, value lifelong learning, and strive to grow as a professional every day.
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gutiii-ops&show_icons=true&hide_title=true)
