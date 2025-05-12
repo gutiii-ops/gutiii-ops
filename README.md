@@ -1,5 +1,5 @@
-# Hello there, I'm Álvaro! 👋
-**aka Guti**
+<h1 align="center">Hello there, I'm Álvaro! 👋</h1>
+<h3 align="center">aka Guti</h3>
 
 
 ## 🚀 About Me
