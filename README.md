@@ -32,7 +32,7 @@ I am committed to becoming a high-quality programmer and developer. I enjoy lear
 
 ## 🔗 Get in touch
 - 📧 **Email:** [g.v.a.alvaro@gmail.com](mailto:g.v.a.alvaro@gmail.com)
-- 🌐 **LinkedIn:** [www.linkedin.com/in/álvaro-gutiérrez-villalba](https://www.linkedin.com/in/álvaro-gutiérrez-villalba)
+- 🌐 **LinkedIn:** [Álvaro Gutiérrez Villalba](https://www.linkedin.com/in/álvaro-gutiérrez-villalba)
 
 <!---
 Thx for see my README. I appreciate it.
