@@ -23,10 +23,10 @@ I am committed to becoming a high-quality programmer and developer. I enjoy lear
 
 ## 🛠 Skills
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,mysql,bash,raspberrypi)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,mysql,bash,raspberrypi)]
 
 ## ✏️ IDE
-[![Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,idea)]
 
 
 ## 🔗 Get in touch
@@ -35,4 +35,5 @@ I am committed to becoming a high-quality programmer and developer. I enjoy lear
 
 <!---
 Thx for see my README. I appreciate it.
+Icons are provided by: https://skillicons.dev
 --->
