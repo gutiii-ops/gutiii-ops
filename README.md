@@ -11,7 +11,6 @@ I'm a tech enthusiast deeply passionate about web development and cybersecurity.
 
 - Currently Studying:
     - Web Application Development 
-    - Master's in Cybersecurity
 
 - Completed:
     - Advanced Vocational Degree in Automation & Industrial Robotics
