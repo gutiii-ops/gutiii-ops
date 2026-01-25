@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a tech enthusiast deeply passionate about web development and cybersecurity. With a strong foundation in automation and industrial robotics, I have embraced the exciting journey of coding and problem-solving. Currently, I am furthering my expertise through studies in web application development and a master's program in cybersecurity. I thrive on challenges, value lifelong learning, and strive to grow as a professional every day.
+I'm a tech enthusiast deeply passionate about web development and cybersecurity. With a strong foundation in automation and industrial robotics, I have embraced the exciting journey of coding and problem-solving. Currently, I am furthering my expertise through studies in web application development. I thrive on challenges, value lifelong learning, and strive to grow as a professional every day.
 
 
 ## 📚 Education
