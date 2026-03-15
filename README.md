@@ -23,7 +23,7 @@ I am committed to becoming a high-quality programmer and developer. I enjoy lear
 
 ## 🛠 Skills
 
-![Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,mysql,bash,raspberrypi)
+![Skills](https://skillicons.dev/icons?i=node.js,react,js,html,css,cpp,java,mysql,bash,raspberrypi)
 
 ## ✏️ IDE
 ![Skills](https://skillicons.dev/icons?i=vscode,idea)
