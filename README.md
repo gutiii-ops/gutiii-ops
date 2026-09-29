@@ -10,10 +10,11 @@ I'm a tech enthusiast deeply passionate about web development and cybersecurity.
 ## 📚 Education
 
 - Currently Studying:
-    - Web Application Development 
+    - My own skills
 
 - Completed:
     - Advanced Vocational Degree in Automation & Industrial Robotics
+    - Web Application Development
 
 
 ## 🏁 Objectives
