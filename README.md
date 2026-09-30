@@ -1,7 +1,8 @@
-<h1 align="center">Hello there, I'm Álvaro!</h1>
-<h3 align="center">aka Guti</h3>
+<h1 align="center">Hello there, I'm Guti!</h1>
 
-<img width="346" height="480" alt="giphy" src="https://github.com/user-attachments/assets/acec5eed-5e4a-49ea-8d69-99a99b1d4cd0" />
+<div aling="center">
+    <img width="1200" height="600" alt="giphy" src="https://github.com/user-attachments/assets/e0697a86-4cf3-45cc-82d3-affeaed509ef" />
+</div>
 
 ## 🚀 About Me
 
