@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Guti!</h1>
 
 <div aling="center">
-    <img width="1200" height="600" alt="giphy" src="https://github.com/user-attachments/assets/e0697a86-4cf3-45cc-82d3-affeaed509ef" />
+    <img width="1200" height="680" alt="giphy" src="https://github.com/user-attachments/assets/e0697a86-4cf3-45cc-82d3-affeaed509ef" />
 </div>
 
 ## 🚀 About Me
